@@ -71,6 +71,6 @@ def download_images(urls,count=100):
         
     # img.close()
 
-download_images(urls,10000)
+download_images(urls,500)
 
 
